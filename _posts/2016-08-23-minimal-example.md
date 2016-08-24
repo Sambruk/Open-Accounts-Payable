@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Minimal example"
-category: doc
+category: dev
 date: 2016-08-23 18:15:48
-order: 3
+order: 1
 ---
 
 This is an XMLSIE 1.0 file containing only a single journal with a single invoice from a single supplier with

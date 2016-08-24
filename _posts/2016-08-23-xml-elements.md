@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "XML elements"
-category: doc
+category: dev
 date: 2016-08-23 17:07:24
-order: 4
+order: 2
 ---
 
 # SIE, Company and Currency
