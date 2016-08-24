@@ -6,7 +6,7 @@ date: 2016-08-23 17:07:24
 order: 2
 ---
 
-# SIE, Company and Currency
+## SIE, Company and Currency
 
 The root object of the XMLSIE is `<SIE>`, which contains the Company and default currency object. 
 
@@ -28,7 +28,7 @@ any problems.
 ```
 
 
-# Accounts
+## Accounts
 
 For the purpose of this project, a published XMLSIE-file should contain at least all accounts used by any ledger entry
 in the file. Since this project is about accounts payable and the scope of this project does not require ledger entries
@@ -62,7 +62,7 @@ must also contain these accounts:
 </Accounts>
 ```
 
-# Financial year
+## Financial year
 
 All ledger journals are grouped by financial year (_sv: verksamhetsår_). There are no requirements in this project that
 the journal entries contains date an invoice was registered, therefore the financial year is recommended to represent
@@ -99,7 +99,7 @@ whether journal entries contains date stamps or not:
 ```
 
 
-# Journals
+## Journals
 Financial years are grouped in journals (_sv: verifikationsserie_). For the scope of this project we use journals to
 represent the administration an invoice has been sent to, for instance “BGY Gymnasienämnd” or
 “VFH Nämnd för funktionshindrade”.
@@ -117,7 +117,7 @@ the parent financial year.
 ```
 
 
-# JournalEntry
+## Journal entries
 
 Journals are grouped in journal entries (_sv: verifikationer_). Typically a journal entry would represent a single
 invoice, but could also be a group of invoices. The association between journal entries and invoices are set in the
@@ -160,7 +160,7 @@ It is recommended that journal entries and ledger entries in the file are listed
 stamp is listed in journal entries nor ledger entries.
 
 
-# LedgerEntry
+## Ledger entries
 
 Journal entries are grouped in ledger entries (_sv: verifikationsrad_). Each ledger entry contains a sum of money
 debited or credited to an account. For the scope of this project we’re only requiring debit entries to cost accounts,
@@ -219,7 +219,7 @@ It is recommended that journal entries and ledger entries in the file are listed
 date stamp is listed in neither journal entries nor ledger entries.
 
 
-# Invoice
+## Invoice
 
 XMLSIE contains two different invoice (_sv: faktura_) objects, one in `AccountsPayable` and one in `AccountsReceivable`.
 The latter is out of scope for this project.
@@ -263,11 +263,14 @@ Optionally you might want to read more about `ArrivalDate`, `RegistredDate`, `Gr
 official XMLSIE 1.0 documentation.
 
 
-# Supplier
+## Supplier
 
-The supplier (_sv: leverantör/betalningsmottagare_) is the origin of one or many invoices. 
+The supplier (_sv: leverantör/betalningsmottagare_) is the origin of one or many invoices.
 
-There are no requirements to give any specifics about a supplier. 
+Please read the article on legal considerations before implementing use of suppliers!
+TODO: link
+
+There are no requirements to give any specifics about a supplier.
 
 A supplier does not have to keep the same `SupplierId` in different XMLSIE-files from the same publisher. This value is
 for internal references within a single file only. Joining data between files and sources should be done using the

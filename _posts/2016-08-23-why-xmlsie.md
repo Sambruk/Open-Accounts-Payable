@@ -5,15 +5,16 @@ category: doc
 date: 2016-08-23 16:56:07
 order: 1
 ---
-# SIE
+## SIE
 
 SIE (Standard Import and Export) is the de facto accounting data interchange format of Sweden, an open specification
 developed since 1992 by [the SIE consortium](http://sie.se) for easy migration of accounting data, typically when
 passing on bookkeeping from a company to an external accounting or auditing firm.
 
-# XMLSIE
+## XMLSIE
 
 [XMLSIE 1.0](http://www.sie.se/?page_id=24) is an XML representation of SIE, introduced in 2003.
+Sometimes also known as SIE-XML.
 
 XMLSIE 1.0 is well developed and specified. It handles all the requirements and more spanning this Sambruk open data
 project. We choose a subset of XMLSIE as the common denominator of all data that will be published, but it also allows

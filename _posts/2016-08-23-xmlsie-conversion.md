@@ -33,7 +33,7 @@ is about account payables: costs.
 * [Deployed conversion tool](https://xmlsie.sambruk.kodapan.se/convert.html)
 * [Github project page](https://github.com/kodapan/xmlsie-tools)
 
-# Example Örebro-style table
+## Example of Örebro-style table
 An excerpt from [November 2013](http://www.orebro.se/download/18.2eb6484c142f02427ba800010581/1392724243768/Leverant%C3%B6rsfakturor+2013-11.xls)
 
 |Payer|Supplier|Supplier number|Invoice|Account|Amount|
