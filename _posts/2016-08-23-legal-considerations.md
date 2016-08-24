@@ -3,7 +3,7 @@ layout: page
 title: "Legal considerations"
 category: doc
 date: 2016-08-23 17:23:39
-order: 6
+order: 3
 ---
 
 There are in some instances legal consideration required regarding personal integrity, especially when being able to
