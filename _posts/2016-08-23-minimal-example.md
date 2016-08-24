@@ -3,7 +3,7 @@ layout: page
 title: "Minimal example"
 category: doc
 date: 2016-08-23 18:15:48
-order: 5
+order: 3
 ---
 
 This is an XMLSIE 1.0 file containing only a single journal with a single invoice from a single supplier with
