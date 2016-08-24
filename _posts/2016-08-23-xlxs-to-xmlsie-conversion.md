@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "XLXS to XMLSIE conversion"
+title: "XLXS -> XMLSIE"
 category: tool
 date: 2016-08-23 17:25:27
 order: 2
