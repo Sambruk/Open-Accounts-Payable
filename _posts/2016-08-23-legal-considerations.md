@@ -22,11 +22,7 @@ in depth analysis. Examples of this is available in the git-repository.
 The legal department of Örebro kommun made the decision that publishing accounts payable is more important than the
 integrity of sole traders, thus openly publishing all data without the consent of the sole traders.
 
-A strict interpretation of PUL would be that you are not allowed to keep track of sole traders in any accountings,
-rendering more or less all Swedish organizations as criminals.
-
 There are a number of laws regarding this subject with questionable compatibility.
-
 Consult your own legal department before publishing.
 Please contact the curators of this document and let them know what you ended up doing.
 
