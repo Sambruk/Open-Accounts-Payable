@@ -20,10 +20,11 @@ Skulder till leverantörer. Inkomna fakturor.
 Förteckning över konton i en bokföring. Ett konto representerar normalt sett en tillgång, skuld, intäkt eller en kostnad.
 
 Ett par vanliga konton man finner i ett företag är:
-*   Bankkonto (tillgång)
-*   Egna insättningar (skuld)
-*   Försäljning av tjänst (intäkt)
-*   Förbrukningsvaror (kostnad)
+
+ *   Bankkonto (tillgång)
+ *   Egna insättningar (skuld)
+ *   Försäljning av tjänst (intäkt)
+ *   Förbrukningsvaror (kostnad)
 
 För ett litet företag kan det räcka med så lite som 20-30 konton, medan en kommun troligen har flera tusen.
 
