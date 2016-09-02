@@ -55,7 +55,7 @@ verksamhetsåret sträcka sig längre eller kortare än ett helt kalenderår.
 ### Journal entry - Verifikation
 
 En verifikation är en ekonomisk händelse i ett företag. Lagen kräver att man med s.k. dubbelbokföring registrerar en
-verifikation som visar från vilka konto medel krediterats och vilka konton som debiterats.
+verifikation som visar från vilka konto medel krediterats och vilka konton som debiterats så att summan alltid blir 0.
 
 
 | Konto                                 | Kredit  | Debit  |
