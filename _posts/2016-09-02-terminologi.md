@@ -21,7 +21,7 @@ Förteckning över konton i en bokföring. Ett konto representerar normalt sett 
 
 Vanliga konton man finner i ett företag är:
  * Bankkonto (tillgång)
- * Enga insättningar (skuld)
+ * Egna insättningar (skuld)
  * Försäljning av tjänst (intäkt)
  * Förbrukningsvaror (kostnad)
 
