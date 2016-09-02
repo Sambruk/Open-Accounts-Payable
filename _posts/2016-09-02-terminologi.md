@@ -6,7 +6,7 @@ date: 2016-09-02 17:31:01
 order: 1
 ---
 Den tänkta målgruppen för den tekniska dokumentationen i detta projekt är programmerare, men innehåller en hel
-del facktermer på engleska från bokföring- och redovisningsvärlden som kanske inte är helt självklara.
+del facktermer på engelska från bokförings- och redovisningsvärlden som kanske inte är helt självklara.
 
 ## Ordlista
 
