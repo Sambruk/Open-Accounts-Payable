@@ -80,7 +80,7 @@ fakturor från kunder, en annan för kontantinköp och en tredje för fakturor u
 Den som utfört en tjänst eller sålt en vara till.
 
 
-## Payer - Gäldenär, den som skall betala
+### Payer - Gäldenär, den som skall betala
 
 En kund, den som köpt en tjänst eller vara.
 
