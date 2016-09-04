@@ -31,8 +31,8 @@ För ett litet företag kan det räcka med så lite som 20-30 konton, medan en k
 Konton är förenklat ett sätt att gruppera olika transaktioner så man enkelt kan se exempelvis hur mycket man betalat ut
 i löner, för frimärken eller hur mycket moms man fakturerat.
 
-Du kan läsa mer om vilka konton som finns i BAS-kontoplanen, en standardkontoplan som används av i princip alla
-svenska bolag.
+Du kan läsa mer om vilka konton som finns i [BAS-kontoplanen](http://www.bas.se/kontoplaner.htm), en standardkontoplan
+som används av i princip alla svenska organisationer.
 
 
 ### Sole trader - Enskild firma eller enskild näringsidkare.
