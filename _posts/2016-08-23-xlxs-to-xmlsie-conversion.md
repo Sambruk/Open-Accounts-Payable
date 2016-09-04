@@ -30,7 +30,7 @@ The Örebro ledger of accounts also contains accounts starting at 5, 6, 7 and 8.
 BAS ledger of accounts will therefore be treated as a cost account. This is probably safe in all cases as this project
 is about account payables: costs.
 
-* [Deployed conversion tool](https://xmlsie.sambruk.kodapan.se/convert.html)
+* [Deployed conversion tool](https://xmlsie.sambruk.kodapan.se/xlsx2xmlsie.html)
 * [Github project page](https://github.com/kodapan/xmlsie-tools)
 
 ## Example of Örebro-style table
