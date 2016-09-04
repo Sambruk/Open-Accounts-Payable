@@ -5,8 +5,9 @@ category: swe
 date: 2016-09-02 17:31:01
 order: 1
 ---
-Den tänkta målgruppen för den tekniska dokumentationen i detta projekt är programmerare, men innehåller en hel
-del facktermer på engelska från bokförings- och redovisningsvärlden som kanske inte är helt självklara.
+Programmerare är den tänkta målgruppen för den tekniska dokumentationen i detta projekt. Texten innehåller dock en hel
+del facktermer på engelska från bokföring- och redovisningsvärlden som kanske inte är helt självklara,
+därför tillhandahålls även denna lilla parlör.
 
 ## Ordlista
 
@@ -17,19 +18,19 @@ Skulder till leverantörer. Inkomna fakturor.
 
 ### Ledger of accounts - Kontoplan
 
-Förteckning över konton i en bokföring. Ett konto representerar normalt sett en tillgång, skuld, intäkt eller en kostnad.
+Förteckning över konton i en bokföring. Ett konto representerar en tillgång, skuld, intäkt eller en kostnad.
 
-Ett par vanliga konton man finner i ett företag är:
+Några vanligt förekommande konton i ett bokföring är:
 
  *   Bankkonto (tillgång)
  *   Egna insättningar (skuld)
  *   Försäljning av tjänst (intäkt)
  *   Förbrukningsvaror (kostnad)
 
-För ett litet företag kan det räcka med så lite som 20-30 konton, medan en kommun troligen har flera tusen.
+För ett litet företag kan det räcka med 20-30 konton, medan en kommun troligen har flera tusen.
 
-Konton är förenklat ett sätt att gruppera olika transaktioner så man enkelt kan se exempelvis hur mycket man betalat ut
-i löner, för frimärken eller hur mycket moms man fakturerat.
+Förenklat är konton ett sätt att gruppera olika transaktioner, vilket gör att man exempelvis kan se hur mycket man
+betalat ut i löner, för frimärken eller hur mycket moms man fakturerat.
 
 Du kan läsa mer om vilka konton som finns i [BAS-kontoplanen](http://www.bas.se/kontoplaner.htm), en standardkontoplan
 som används av i princip alla svenska organisationer.
@@ -39,23 +40,23 @@ som används av i princip alla svenska organisationer.
 
 Den enklaste formen av företagsverksamhet där en enskild person är tilldelad en s.k. F-skattesedel, dvs är godkänd
 och personligen skyldig att betala in företagsskatter som moms och egenavgifter. Går en enskild firma i konkurs är
-det alltså personen som driver företaget som personligen försätts i konkurs.
+det personen som driver företaget som personligen försätts i konkurs.
 
-I Sverige är organisationsnummret för en enskild firma det samma som näringsidkarens personnummer och kan därmed
-räknas till en personuppgift.
+I Sverige är organisationsnummret för en enskild firma det samma som näringsidkarens personnummer och räknas därmed
+till en personuppgift.
 
 
 ### Financial year - Verksamhetsår
 
-Ett företags bokföring löper ett år, ett verksamhets år. Detta behöver inte men sammanfaller normalt sett med ett
-kalenderår, dvs från första januari till sista december. I vissa fall, exempelvis vid nybildande av företag, kan
-verksamhetsåret sträcka sig längre eller kortare än ett helt kalenderår.
+En organisations bokföring sträcker sig normat sett över ett år, ett verksamhetsår. Detta behöver inte men sammanfaller
+normalt sett med ett kalenderår, dvs från första januari till sista december. I vissa fall, exempelvis vid nybildande
+av företag kan verksamhetsåret sträcka sig längre eller kortare än ett helt kalenderår.
 
 
 ### Journal entry - Verifikation
 
-En verifikation är en ekonomisk händelse i ett företag. Lagen kräver att man med s.k. dubbelbokföring registrerar en
-verifikation som visar från vilka konto medel krediterats och vilka konton som debiterats så att summan alltid blir 0.
+En verifikation är en ekonomisk händelse i ett bokföring. Lagen kräver att man med s.k. dubbel bokföring registrerar en
+verifikation som visar från vilka konto medel krediterats och vilka konton som debiterats. Summan blir alltid 0.
 
 
 | Konto                                 | Kredit  | Debit  |
@@ -78,12 +79,12 @@ fakturor från kunder, en annan för kontantinköp och en tredje för fakturor u
 
 ### Supplier - Leverantör, betalningsmottagare
 
-Den som utfört en tjänst eller sålt en vara till.
+Den som utfört en tjänst eller sålt en vara.
 
 
-### Payer - Gäldenär, den som skall betala
+### Payer - Gäldenär
 
-En kund, den som köpt en tjänst eller vara.
+En kund. Mottagaren av en tjänst eller vara. Den som skall betala.
 
 
 ### Invoice - Faktura
