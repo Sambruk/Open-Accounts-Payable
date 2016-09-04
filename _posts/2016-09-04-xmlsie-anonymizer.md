@@ -21,6 +21,7 @@ A sole trader organization number is according to the logics of this tool define
 `yyMMdd-nnnc`, where `yyMMdd` is a valid gregorian date and where `c` is the modulus 10 luhn checksum of the 9 preceding digits.
 
 The supplier created by this tool will look like this:
+
 ```xml
 <Supplier>
     <SupplierId>SOLE_TRADERS</SupplierId>
