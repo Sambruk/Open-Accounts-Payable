@@ -276,9 +276,6 @@ A supplier does not have to keep the same `SupplierId` in different XMLSIE-files
 for internal references within a single file only. Joining data between files and sources should be done using the
 `SupplierOrganizationalNumber`.
 
-TODO: Borde kanske organisationsnummer vara internationell VAT-standard, ex SE-5566778899-01?
-Vad händer annars med suppliers som kommer från utlandet?
-
 ```xml
 <AccountsPayable>
   <Suppliers>
