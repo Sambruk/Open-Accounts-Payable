@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+        xmlns:adms="http://www.w3.org/ns/adms#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:dcat="http://www.w3.org/ns/dcat#"
+        xmlns:store="https://dcat-editor.com/store/"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:odrs="http://schema.theodi.org/odrs#"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:es="http://entrystore.org/terms/"
+        xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+        xmlns:dcterms="http://purl.org/dc/terms/">
+<dcat:Catalog rdf:about="https://dcat-editor.com/store/294/resource/dcat">
+        <dcterms:title>Open Accounts Payable</dcterms:title>
+        <dcterms:description>Accounts Payable as XMLSIE</dcterms:description>
+        <dcat:dataset rdf:resource="https://dcat-editor.com/store/294/resource/2"/>
+        <dcterms:publisher>
+                <!-- TODO: Change this to your organization name -->
+                <foaf:Agent rdf:about="https://dcat-editor.com/store/294/resource/1">
+                        <foaf:name>Föreningen Sambruk</foaf:name>
+                </foaf:Agent>
+        </dcterms:publisher>
+</dcat:Catalog>
+
+<!-- TODO: Change this to your organization contact point -->
+<vcard:Organization rdf:about="https://dcat-editor.com/store/294/resource/3">
+        <vcard:fn>Föreningen Sambruk</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:info@sambruk.se"/>
+        <vcard:hasTelephone rdf:nodeID="node1at8oh46px1"/>
+        <vcard:hasAddress rdf:nodeID="node1at8oh46px2"/>
+</vcard:Organization>
+<!-- TODO: Change this to your organization contact point -->
+<vcard:Work rdf:nodeID="node1at8oh46px1">
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Cell"/>
+        <vcard:hasValue rdf:resource="tel:+46703141192"/>
+</vcard:Work>
+<!-- TODO: Change this to your organization contact point -->
+<vcard:Address rdf:nodeID="node1at8oh46px2">
+        <vcard:postal-code>811 32</vcard:postal-code>
+        <vcard:locality>Sandviken</vcard:locality>
+        <vcard:street-address>c/o Sandbacka Park, Högbovägen 45</vcard:street-address>
+        <vcard:country-name>Sweden</vcard:country-name>
+</vcard:Address>
+
+<dcat:Dataset rdf:about="https://dcat-editor.com/store/294/resource/2">
+        <dcterms:title xml:lang="en">Accounts payable</dcterms:title>
+        <dcterms:description xml:lang="en">Meta data about invoices sent from creditors to debtors.</dcterms:description>
+        <dcterms:publisher rdf:resource="https://dcat-editor.com/store/294/resource/1"/>
+        <dcat:keyword xml:lang="en">Invoices</dcat:keyword>
+        <dcat:keyword xml:lang="en">Accounts payable</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Fakturor</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Leverantörsreskontra</dcat:keyword>
+        <dcat:keyword>XMLSIE</dcat:keyword>
+        <adms:contactPoint rdf:resource="https://dcat-editor.com/store/294/resource/3"/>
+        <dcat:theme rdf:resource="http://eurovoc.europa.eu/100146"/>
+</dcat:Dataset>
+
+</rdf:RDF>
