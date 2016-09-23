@@ -62,7 +62,7 @@ a journal entry will always end up as 0.
 
 | Account                               | Credit  | Debit  |
 |---------------------------------------|---------|--------|
-| 1940, Bankaccount                     |  10 000 |        |
+| 1940, Bank account                    |  10 000 |        |
 | 3041, Sale of service, 25% VAT        |         |  7 500 |
 | 2610, Outgoing VAT, 25%               |         |  2 500 |
 
