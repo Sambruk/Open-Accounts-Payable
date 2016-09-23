@@ -5,8 +5,8 @@ category: doc
 date: 2016-09-02 17:31:01
 order: 4
 ---
-Software developers are the target for the technical documentation of this project. The text does however contain 
-quite a bit of terms from the world of accounting, which might be unfamiliar to some. Therefor we've authored
+The intended target for the technical documentation of this project is software developers. The text does however
+contain quite a bit of terms from the world of accounting, which might be unfamiliar to some. Therefor we've authored
 this small introduction to the subject.
 
 ## Dictionary
