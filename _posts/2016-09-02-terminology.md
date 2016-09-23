@@ -39,8 +39,8 @@ used by the vast majority of all Swedish organizations.
 ### Sole trader 
 
 The simplest form of company. A single individual person who has been trusted by the government to keep books and pay
-company taxes. There is no difference between the idividuals economy and the company. If the company goes bankrupt so
-does the individual.
+company taxes. There is no distinction between the economy of the idividual and the economy of the company, thus if the
+company of a sole trader goes bankrupt so does the individual.
 
 In Sweden the organizational identity and VAT number of a sole trader is the same as social security number (personnummer)
 of the individual, and is therefor counted as personal data, data which isn't always legal to publish.
