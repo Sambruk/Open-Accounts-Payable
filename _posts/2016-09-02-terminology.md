@@ -32,7 +32,7 @@ For a very small company it's usually enough with 20-30 accounts, while a city m
 A simplified explanation of accounts is a way to group transactions, e.g. allow one to see how much money is spent
 on salaries, for stamps or how much value added tax has been invoiced to customers.
 
-You can read more about available accounts in the Swedish standard[BAS-kontoplanen](http://www.bas.se/kontoplaner.htm),
+You can read more about available accounts in the Swedish standard [BAS-kontoplanen](http://www.bas.se/kontoplaner.htm),
 used by the vast majority of all Swedish organizations.
 
 
