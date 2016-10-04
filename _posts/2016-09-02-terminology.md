@@ -74,7 +74,7 @@ A journal entry can be broken down in ledger entries. In the above example there
 
 ### Journal 
 
-The the name imply, journals are used to group journal entries. For example one could have a journal
+As the name imply, journals are used to group journal entries. For example one could have a journal
 for incoming invoices, another for cash purchases, and a third for invoices sent to customers.
 
 
@@ -85,7 +85,7 @@ Someone that sold a service or a product.
 
 ### Payer 
 
-The customers. The receiver of a service of product. 
+The customers. The receiver of a service or a product. 
 
 ### Invoice 
 
